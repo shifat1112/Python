@@ -1,0 +1,15 @@
+games = []
+games.append("Free Fire")
+games.append("PUBG")
+games.append("PES 2024")
+games.append("Among Us")
+
+print(games)
+
+
+games.pop()
+if len(games) != 0:
+    print(games)
+    print("Top of the game is: ", games[-1])
+else:
+    print("No more games in the list.")

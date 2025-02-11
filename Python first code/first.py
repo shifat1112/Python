@@ -1,0 +1,5 @@
+print(1)
+print("Shifat Ahmed")
+print('01782843942')
+print('s')
+print(3.96)
